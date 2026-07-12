@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "xbkdQi9MV_Tc6AZsumJ_G"
+uri = "file://MurtaxaGamingHub.zip"
+type = "unspecified"
+title = "Murtaxa Gaming Hub — Unity Android Project"
